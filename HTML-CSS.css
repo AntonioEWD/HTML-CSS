@@ -2,7 +2,6 @@ body {
     background-image: url("https://images3.alphacoders.com/861/thumb-1920-86137.jpg");
     background-repeat: no-repeat;
     background-size: cover;
-    background-opacity: 100%;
 
     h1 {
         color: blue;
@@ -10,6 +9,7 @@ body {
     }
 
     p {
+        background-color: rgba(255, 255, 255, 0.8);
         font-family: verdana;
         font-size: 15px;
     }
