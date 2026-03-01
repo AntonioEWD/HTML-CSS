@@ -2,6 +2,9 @@ body {
     background-image: url("https://images3.alphacoders.com/861/thumb-1920-86137.jpg");
     background-repeat: no-repeat;
     background-size: cover;
+    font-family: Verdana, sans-serif;
+    margin: 0;
+    padding: 20px;
 
     h1 {
         color: blue;
@@ -10,15 +13,16 @@ body {
 
     p {
         background-color: rgba(255, 255, 255, 0.8);
+        padding: 10px;
         font-family: verdana;
         font-size: 15px;
     }
 
     .header {
         background-color: rgba(255, 255, 255, 0.8);
-        padding: 20px;
+        padding: 10px;
         text-align: center;
         border-radius: 10px;
-        margin-bottom: 20px;
+        margin-bottom: 10px;
     }
 }
